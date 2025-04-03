@@ -21,7 +21,7 @@
 10. Quality of Sulfuras is always 80-
        The SulfurasUpdater ensures Sulfuras always has a quality of 80 and doesn't change, as per the requirement.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    For exesting implemention(main & test), please refer package com.gildedrose.v1
+    For existing implemention(main & test), please refer package com.gildedrose.v1
     For the refactored code(main & test), please refer package com.gildedrose.v2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Summary of existing and refractored code - 
